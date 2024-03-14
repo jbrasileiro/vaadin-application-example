@@ -30,3 +30,7 @@
 **/hs_err_pid*
 
 # JAFAFX
+
+# VAADIN
+/frontend/generated
+/frontend/index.html

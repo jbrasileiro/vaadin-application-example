@@ -1,4 +1,4 @@
-package com.github.osp-huhula.vaadin;
+package com.github.osphuhula.vaadin;
 
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.server.PWA;
